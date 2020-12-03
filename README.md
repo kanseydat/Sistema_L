@@ -16,10 +16,11 @@
 
 - [x] Autenticação de Usuário (Login e Senha)
 - [x] Cadastro de cliente
-- [ ] Busca de Cliente
-- [ ] Cadastro de produtos
-- [ ] Catálogo de Produtos
-- [ ] Venda de Produtos
+- [x] Busca de Cliente
+- [x] Cadastro de produtos
+- [x] Catálogo de Produtos
+- [x] Venda de Produtos
+- [ ] Melhoria gerais
 
 ### Como executar o projeto: Pré-requisitos
 
