@@ -20,7 +20,14 @@
 - [x] Cadastro de produtos
 - [x] Catálogo de Produtos
 - [x] Venda de Produtos
-- [ ] Melhoria gerais
+
+### DER
+<img align="center" src="/IMAGENS/diagrama de entidade e relacionamento para banco de dados/DER - Sistema_Loja.png" alt="logo"/>
+<br>
+
+### Diagrama de Classe
+<img align="center" src="/IMAGENS/Diagrama de Classes/Diagrama de Classes - Sistema_Loja.png" alt="logo"/>
+<br>
 
 ### Como executar o projeto: Pré-requisitos
 
